@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 ![Joshua's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoshuaGuevaraJ1&show_icons=true&theme=transparent)
-_
 ![Joshua's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JoshuaGuevaraJ1&show_icons=true&theme=transparent)
 
 
