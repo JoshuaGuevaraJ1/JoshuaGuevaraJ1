@@ -4,6 +4,7 @@
 _
 ![Joshua's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JoshuaGuevaraJ1&show_icons=true&theme=transparent)
 
+
 ### Languages
 ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -20,7 +21,7 @@ _
 ![image](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![image](https://img.shields.io/badge/Kubuntu-0079C1?style=for-the-badge&logo=kubuntu&logoColor=white)
 ![image](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![image]()
+
 
 ### IDE
 ![image](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
