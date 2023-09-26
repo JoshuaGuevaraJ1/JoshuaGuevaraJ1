@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-| ![Joshua's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoshuaGuevaraJ1&show_icons=true&amp;include_all_commits=true&amp;theme=transparent) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoshuaGuevaraJ1& amp;layout=compact&amp;show_icons=true&theme=transparent) |
+| ![Joshua's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoshuaGuevaraJ1&show_icons=true&amp;include_all_commits=true&amp;theme=transparent&amp;hide_border=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoshuaGuevaraJ1&amp;layout=compact&amp;show_icons=true&theme=transparent&amp;hide_border=true) |
 | --- | ---: |
 
 ![Joshua's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&amp;show_icons=true&amp;include_all_commits=true&amp;theme=buefy&amp;hide_border=true)
